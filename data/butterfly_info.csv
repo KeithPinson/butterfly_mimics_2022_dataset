@@ -1,0 +1,7 @@
+Name,Common Name,Species,Yum ?,Real ?,Note
+black,Black Swallowtail,Papilio polyxenes,yum,mimic,mimics pipevine
+monarch,Monarch,Danaus plexippus,yuck,real,cardiac glycoside toxins
+pipevine,Pipevine Swallowtail,Battus philenor,yuck,real,sequesters aristolochic acid
+spicebush,Spicebush Swallowtail,Papilio troilus,yum,mimic,mimics pipevine
+tiger,Eastern Tiger Swallowtail,Papilio glaucus,yum,mimic,females may mimic pipevine
+viceroy,Viceroy,Limenitis archippus,yuck,mimic,sequesters salicylic acid

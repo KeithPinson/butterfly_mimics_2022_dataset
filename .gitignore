@@ -1,0 +1,12 @@
+# Developer dot folders
+.scratch/
+.research/
+
+# Datasets
+data/**/*.jpg
+data/**/*.png
+data/**/*.zip
+tiny/**/*.jpg
+tiny/**/*.png
+tiny/**/*.zip
+
