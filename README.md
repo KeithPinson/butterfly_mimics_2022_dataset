@@ -4,17 +4,17 @@
 
 This 2022 version of the dataset has two variations:
 
-- An abbreviated `tiny` dataset for image classification of just 2 species
+- An abbreviated `tiny` dataset for image classification of just 2 species with an accompanying [document](tiny/2022 Dataset of Butterfly Mimics - Tiny.pdf)
 
 ![the-monarchs-and-viceroys](DocResources/the-monarchs-and-viceroys.png)
 
-[2022 Dataset of Butterfly Mimics - Tiny.pdf](tiny/2022 Dataset of Butterfly Mimics - Tiny.pdf)
-
-- And, a full `data` version for classification of 6 butterfly species
+- And, a full `data` version for classification of 6 butterfly species with its own accompanying [document](data/2022 Dataset of Butterfly Mimics.pdf)
 
 ![the-butterflies](DocResources/the-butterflies.png)
 
-[2022 Dataset of Butterfly Mimics.pdf](data/2022 Dataset of Butterfly Mimics.pdf)
+## To Download the Dataset
+
+This repository contains everything but the images in the dataset. They are hosted on Kaggle. Follow the link to download the complete dataset, https://www.kaggle.com/datasets/keithpinson/butterfly-mimics-2022.
 
 ## License
 
