@@ -3,6 +3,7 @@
 .research/
 
 # Datasets
+*.zip
 data/**/*.jpg
 data/**/*.png
 data/**/*.zip
