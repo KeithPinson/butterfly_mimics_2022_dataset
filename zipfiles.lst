@@ -3,11 +3,15 @@ LICENSE
 README.md
 DocResources\*.*
 tiny\butterfly_info.csv
+tiny\*.pdf
+tiny\*.md
 tiny\butterfly_mimics\images.csv
 tiny\butterfly_mimics\images\*.*
 tiny\butterfly_mimics\image_holdouts.csv
 tiny\butterfly_mimics\image_holdouts\*.*
 data\butterfly_info.csv
+data\*.pdf
+data\*.md
 data\butterfly_mimics\images.csv
 data\butterfly_mimics\images\*.*
 data\butterfly_mimics\image_holdouts.csv
