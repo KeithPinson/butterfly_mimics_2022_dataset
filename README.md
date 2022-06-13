@@ -5,11 +5,11 @@
 This 2022 version of the dataset has two variations:
 
 An abbreviated `tiny` dataset for image classification of just 2 species with an accompanying
- [tiny dataset document](./tiny/2022 Dataset of Butterfly Mimics - Tiny.pdf).
+ [tiny dataset document](tiny/2022-Dataset-of-Butterfly-Mimics--Tiny.pdf).
 
 ![the-monarchs-and-viceroys](DocResources/the-monarchs-and-viceroys.png)
 
-And, a full `data` version for classification of 6 butterfly species with its own accompanying [dataset document](./data/2022 Dataset of Butterfly Mimics.pdf).
+And, a full `data` version for classification of 6 butterfly species with its own accompanying [dataset document](data/2022-Dataset-of-Butterfly-Mimics.pdf).
 
 ![the-butterflies](DocResources/the-butterflies.png)
 
