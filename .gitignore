@@ -10,4 +10,7 @@ data/**/*.zip
 tiny/**/*.jpg
 tiny/**/*.png
 tiny/**/*.zip
+**/image_holdouts_answers.csv
+**/images_private*
+**/images_private/
 
