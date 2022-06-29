@@ -42,7 +42,6 @@ gvae9c7985,pipevine,adult,both
 gvef7c2c0f,monarch,adult,dorsal
 gw0bc3cc2e,tiger,adult,dorsal
 gw47ddbdab,spicebush,adult,both
-gxa7db3aef,tiger,adult,both
 gy806152ae,pipevine,adult,ventral
 hg57d18eac,black,adult,dorsal
 hg958a6dfb,spicebush,adult,dorsal
@@ -124,6 +123,7 @@ is34088af4,monarch,adult,dorsal
 is5a5dcd4a,spicebush,adult,both
 is7af40c1f,viceroy,adult,dorsal
 is91bec84d,viceroy,adult,both
+isac8629f8,tiger,adult,dorsal
 itd1de10ca,viceroy,adult,dorsal
 iu243db4bb,tiger,adult,both
 iu29fa6c6e,viceroy,adult,dorsal
@@ -174,7 +174,6 @@ juc72396d0,pipevine,adult,ventral
 jv0d3dcbea,monarch,adult,dorsal
 jv2fae20d0,spicebush,adult,dorsal
 jvb7e2339b,spicebush,adult,both
-jw2d46aff2,viceroy,adult,dorsal
 jx27031b0a,black,adult,both
 jx4f19d702,black,adult,dorsal
 jy9a5465b3,spicebush,adult,ventral
@@ -194,6 +193,7 @@ ki60b8e7fb,monarch,adult,ventral
 kic91ac8cd,monarch,adult,ventral
 kle7b296fa,pipevine,adult,dorsal
 km1532e10e,tiger,adult,dorsal
+kne007103f,black,adult,dorsal
 kndcee81b8,viceroy,adult,both
 koa17406a0,pipevine,adult,both
 koa99f0e9b,black,adult,dorsal
@@ -390,7 +390,6 @@ pjac7c3f17,pipevine,adult,both
 pjdec544a6,monarch,adult,ventral
 pk17809ee9,pipevine,adult,dorsal
 pk40277a7b,spicebush,adult,both
-pl591bf7c3,spicebush,adult,dorsal
 pl6544d00f,tiger,adult,dorsal
 pl67c22930,pipevine,adult,dorsal
 pl7782a28b,pipevine,adult,both
@@ -465,6 +464,7 @@ qrf3450667,pipevine,adult,ventral
 qu3890ac6c,monarch,adult,ventral
 qu527834e5,spicebush,adult,dorsal
 qu5d687444,tiger,adult,dorsal
+qub7b3bb1b,spicebush,adult,dorsal
 qv1488417a,black,adult,dorsal
 qv212bc86c,black,adult,ventral
 qv54726ea9,tiger,adult,dorsal
@@ -676,6 +676,7 @@ vxbd5e273f,black,adult,dorsal
 vxcabe02e0,tiger,adult,dorsal
 vy06728984,tiger,adult,dorsal
 vy3f1a9aab,monarch,adult,both
+vyaa1ee082,tiger,adult,ventral
 vz2b9a5126,spicebush,adult,dorsal
 vz8bd4bbdf,viceroy,adult,dorsal
 wg63225098,spicebush,adult,dorsal
@@ -704,6 +705,7 @@ wr138bb870,monarch,adult,ventral
 wr50c6092a,tiger,adult,dorsal
 ws0a14dbf3,pipevine,adult,dorsal
 ws16a3425c,spicebush,adult,dorsal
+vs194e619d,pipevine,adult,dorsal
 ws7167bc0b,black,adult,dorsal
 wt124973d8,pipevine,adult,dorsal
 wt3105e45b,tiger,adult,dorsal
@@ -830,20 +832,17 @@ zna01e1721,monarch,adult,ventral
 zo727a5749,pipevine,adult,both
 zoc5814c1d,pipevine,adult,ventral
 zoda643e39,tiger,adult,dorsal
-zqae2d38cb,pipevine,adult,dorsal
 zr259b7da6,tiger,adult,dorsal
 zr2c503aa2,tiger,adult,dorsal
 zr4b528a61,monarch,adult,dorsal
 zr871dec52,pipevine,adult,ventral
 zs42c66b6f,tiger,adult,dorsal
-zs5563e241,black,adult,dorsal
 zsa1dd703f,monarch,adult,dorsal
 zu310f3790,spicebush,adult,dorsal
 zv0af06300,monarch,adult,ventral
 zv673814ba,tiger,adult,dorsal
 zvb243aa20,black,adult,dorsal
 zvd922850d,pipevine,adult,dorsal
-zw272ae07b,tiger,adult,dorsal
 zw57983030,pipevine,adult,dorsal
 zx2c43fea0,viceroy,adult,ventral
 zx61cd7b78,pipevine,adult,ventral
