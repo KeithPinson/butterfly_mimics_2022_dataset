@@ -15,7 +15,7 @@ And, a full `data` version for classification of 6 butterfly species with its ow
 
 ## To Download the Dataset
 
-The Github repository contains everything but the images in the dataset. They full dataset with images is hosted on Kaggle. Follow the link to download the complete dataset, https://www.kaggle.com/datasets/keithpinson/butterfly-mimics-2022.
+The [Github repository](https://github.com/KeithPinson/butterfly_mimics_2022_dataset) contains everything but the images in the dataset. They full dataset with images is hosted on Kaggle. Follow the link to download the complete dataset, https://www.kaggle.com/datasets/keithpinson/butterfly-mimics-2022.
 
 ## License
 
