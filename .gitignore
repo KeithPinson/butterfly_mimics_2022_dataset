@@ -13,6 +13,7 @@ tiny/**/*.zip
 **/image_holdouts_answers.csv
 **/images_private*
 **/images_private/
+**/images_public*
 **/images_public/
 
 # Kaggle
