@@ -13,4 +13,9 @@ tiny/**/*.zip
 **/image_holdouts_answers.csv
 **/images_private*
 **/images_private/
+**/images_public/
 
+# Kaggle
+kaggle*.lst
+kaggle*.bat
+**/kaggle*.csv
