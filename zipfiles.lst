@@ -1,14 +1,8 @@
 YOYMimics-2022-dataset.pdf
 LICENSE
 README.md
+sample_submission.csv
 DocResources\*.*
-tiny\butterfly_info.csv
-tiny\*.pdf
-tiny\*.md
-tiny\butterfly_mimics\images.csv
-tiny\butterfly_mimics\images\*.*
-tiny\butterfly_mimics\image_holdouts.csv
-tiny\butterfly_mimics\image_holdouts\*.*
 data\butterfly_info.csv
 data\*.pdf
 data\*.md
